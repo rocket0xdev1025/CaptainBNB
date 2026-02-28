@@ -107833,13 +107833,13 @@ const vc = {
     },
     {
       img: "/imgs/socials/telegram.svg",
-      url: "https://t.me/bsc_mascot_entry",
+      url: "https://t.me/bnbmascot_entry",
       variant: "w-16 h-16",
       title: "Telegram EN",
     },
     {
       img: "/imgs/socials/twitter.svg",
-      url: "https://x.com/bsc_mascot",
+      url: "https://x.com/bnbmascot_x",
       variant: "w-16 h-16",
       title: "Twitter EN",
     },
